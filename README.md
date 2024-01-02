@@ -8,7 +8,7 @@ Python AIML Repo
 #### Executive summary
 Meteorological data such as precipitation and temperature can be modeled predictively based on time series methods. However, localized data will vary based on topography. 
 #### Rationale
-Localized, site specific meteorological information is useful for several operational purposes such as emergency response, risk maagement, tactical defense, and agriculture among others. It is impossible to have weather stations at all locations, but there are methods for spatial predictive modeling to estimate spatiotemporal results for areas of interest (AOI.)
+Localized, site specific meteorological information is useful for several operational purposes such as emergency response, risk maagement, tactical defense, and agriculture among others. It is impossible to have weather stations at all locations, but there are methods for spatial predictive modeling to estimate spatiotemporal results for areas of interest (AOI)
 
 #### Research Question
 Spatially predict site specifc temperature and precipitation based on historical time-series data and Empirical Bayesian Kriging 3D (EBK) geostatisticasl methods.
